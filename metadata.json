@@ -1,0 +1,7 @@
+{
+  "name": "Minelli - Ristorante & Pizzeria",
+  "description": "A modern, high-end reimagining of the Restauracja Minelli website, featuring an AI Sommelier and interactive menu.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
